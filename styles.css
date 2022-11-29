@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif, serif;
+}
+
+body {
+    color: #272525f1;
+}
+
+img {
+    width: 700px;
+    height: 450px;
+}
+
+h1, h2, h3, h4 {
+    color: #000000b9;
+}
+
+a {
+    color: #0000ff93;
+}
+
+a:active, a:hover {
+color: #2d2d9edc;
+}
